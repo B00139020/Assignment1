@@ -1,0 +1,74 @@
+#logo {font-family: 'Vibur', cursive;}
+
+.inline{
+display: inline;
+}
+
+.carousel-inner > .item > img{ 
+    margin:auto; 
+    width:100% 
+}
+
+
+#rowFix{
+    position: fixed;
+    top: 0;
+}
+
+#bg{
+    background: 969191;
+}
+
+#theNav{
+    padding-bottom: 30px;
+}
+
+#footer{
+    background-color: #D8D6D6
+}
+
+
+.form-right{
+ width: 100% !important;
+ justify-content: flex-end !important;
+}
+
+.storyparagraph{
+    
+    position: absolute;
+    width: 100%;
+    text-align: center;
+}
+
+
+#toprow{
+    padding-bottom: 30px;
+}
+
+#bottomrow{
+    padding-bottom: 70px;
+}
+
+
+#textbox_row{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color:lightgray;
+}
+
+
+.button {
+  background-color: #ccffcc; /* Green */
+  border: none;
+  color: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration:line-through;
+  display: inline-block;
+  font-size: 22px;
+}
+
+
+#footer{
+    padding-top: 100px;
+}
